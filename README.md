@@ -1,4 +1,4 @@
-# my-project
+# elm
 
 > A Vue.js project
 
