@@ -1,6 +1,6 @@
 # elm
 
-> A Vue.js project
+> This is a demo which imitate elm app
 
 ## Build Setup
 
